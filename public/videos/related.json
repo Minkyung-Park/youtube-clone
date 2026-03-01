@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3sFeHd4Br_itVctZ8PjD2Z-vDyw",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 288,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KQC_rZz4elIWO8OtU6FwB9MAxKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RalbMOLMZh8"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T00:30:16Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem is AMAZING. Presented by @xfinity Imagine That.",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RalbMOLMZh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RalbMOLMZh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RalbMOLMZh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T00:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4rzwOgHhslzHXTxvyxiF7I4Co-E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yrMq_h1Eknk"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-25T02:03:50Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Marvel&#39;s Wolverine game is coming out in September!",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrMq_h1Eknk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrMq_h1Eknk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrMq_h1Eknk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-25T02:03:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3rk2ESgF60GUhLyUf1sZiWa4Cgo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cV-ZUOtpx78"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T12:01:06Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - 28 Brilliant Little Details (SPOILERS!)",
+        "description": "From historic Resident Evil Easter eggs to amazing gameplay ideas, here are 28 brilliant little details in Resident Evil Requiem.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cV-ZUOtpx78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cV-ZUOtpx78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cV-ZUOtpx78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T12:01:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ndcl8HczOjDCvBOiHgw7EL0koJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VuSC-x32604"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T11:00:52Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem: 12 Big Mistakes To Avoid",
+        "description": "Resident Evil Requiem boasts the series' hallmark resource management, high intensity shooting, and beautiful Leon one-liners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VuSC-x32604/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VuSC-x32604/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VuSC-x32604/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T11:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rC4TIaWa1njcALriXfhVXvtHR24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WZQz3JxenBU"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T01:07:09Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Scrubs built a &quot;new&quot; set for the reboot. Presented by NTE and HyperX #IGNFanfest",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WZQz3JxenBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WZQz3JxenBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WZQz3JxenBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T01:07:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fa1voNa2hr85uVq13fbSuFs0Ups",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LK4A1c1AyOw"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T05:00:23Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - All Safe Combinations | How to Open Every Safe",
+        "description": "Finding a safe combination is a classic Resident Evil puzzle, and Requiem has a handful for you to pop open across its key ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LK4A1c1AyOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LK4A1c1AyOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LK4A1c1AyOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T05:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DmdxfFo6TrRYOk-6eK1TtB2XFsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zxl0SiAUZTM"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T02:15:10Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "How Resident Evil Requiem looks on two VERY different platforms. Presented by @xfinity Imagine That.",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zxl0SiAUZTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zxl0SiAUZTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zxl0SiAUZTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T02:15:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XyWxNX0SkIMXPexNExbwKzU4Af0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G3tAquQx_Mg"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-25T15:00:34Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem Review",
+        "description": "Resident Evil Requiem reviewed by Tristan Ogilvie on PlayStation 5. Also available on Xbox Series X|S, PC, and Nintendo Switch ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G3tAquQx_Mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G3tAquQx_Mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3tAquQx_Mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-25T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J--agVDzbVjZozyw70Np3wMdXFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_BZ6_60hLxE"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T19:30:09Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Samson: A Tyndalston Story Plays Like a Brawler Set in Max Payne’s New York",
+        "description": "If the gritty, pseudo-open-world brawler Samson: A Tyndalston Story (from former Just Cause and Mad Max developers) can keep ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BZ6_60hLxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BZ6_60hLxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BZ6_60hLxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T19:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1tHZfrLb4TcnStKpv6notUEmuOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oo6me0O4PiI"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T11:01:18Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - Switch 2 Vs PC Graphics Comparison",
+        "description": "As the Switch 2 enters the latter half of its first year, it's starting to get some pretty impressive ports and Resident Evil Requiem is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oo6me0O4PiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oo6me0O4PiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oo6me0O4PiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T11:01:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EhuBvnu6dzyjXVXfI98EkeRAoNQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jnhOD-x8-CQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T02:20:57Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Pokemon music player revealed",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnhOD-x8-CQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnhOD-x8-CQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnhOD-x8-CQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T02:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-YfPqjqcAti-lNWNQw3zc6Fs52Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ECRHZ_qQ9I"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T11:00:06Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - 11 Things You Need to Know Before You Begin",
+        "description": "While much of Resident Evil Requiem will be familiar to long time Resident Evil veterans, there's still a lot that's new to the series, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ECRHZ_qQ9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ECRHZ_qQ9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ECRHZ_qQ9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bIBQ2qy4Fynd3J8SRp4FRuuaby4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xjpDb09XCjY"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T14:19:20Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "How Long is Resident Evil Requiem?",
+        "description": "Resident Evil Requiem has finally arrived, ready to provide you with hours and hours of survival horror action, in which you can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjpDb09XCjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjpDb09XCjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjpDb09XCjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T14:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1nNGgKChmtfdWfR29e5OU7aguXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8ttl33u-kc"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T15:01:33Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - Max Out Grace&#39;s Inventory (All Hip Pouch Locations)",
+        "description": "To max out Grace's inventory in Resident Evil Requiem, you need to find the four hip pouches spread throughout the entire ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8ttl33u-kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8ttl33u-kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8ttl33u-kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T15:01:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PL1RwO1aqQFGSialTUqpJ2Tiz3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bao75rdKmpM"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T15:24:49Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Nintendo Reveals Gen 10 and Pokémon Winds and Waves for Switch 2 - What Do You Think?",
+        "description": "Check out this latest news from the recent Pokémon 30th Anniversary Live-Stream! The newest Generation has been revealed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bao75rdKmpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bao75rdKmpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bao75rdKmpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T15:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N8RRAePQux8kChCSbukg3m8zF5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FBydfqn_JjU"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T20:00:15Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - The 12 Best Ways to Conserve Ammo",
+        "description": "Coming across zombies and stalkers when you're low or entirely out of ammunition is one of the scariest things you can deal with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FBydfqn_JjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FBydfqn_JjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBydfqn_JjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T20:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LvcvFc6GQmk3HUboBxNZ27oF04A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hlft5DmiJ1g"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-26T19:21:14Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Minos - Official Gameplay Overview and Release Window Trailer | IGN Fan Fest 2026",
+        "description": "Join Kacper from developer Artificer for a deep dive into the gameplay of Minos in this overview trailer for the upcoming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hlft5DmiJ1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hlft5DmiJ1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hlft5DmiJ1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-26T19:21:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0jFwFc1zrCaeVrixgeep9h1J324",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QE0TBpO_AHw"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T14:15:03Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "The Biggest Game Releases of March 2026",
+        "description": "March 2026 is officially here, and the gaming calendar is absolutely packed with heavy hitters like the long-awaited open-world ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QE0TBpO_AHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QE0TBpO_AHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QE0TBpO_AHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T14:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8uVsVnnje9tdXjlfXblB0f3rbkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yClDiMKcPl8"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T14:52:49Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - Official Launch Trailer",
+        "description": "Check out the launch trailer for Resident Evil Requiem! Experience a pulse-pounding mystery as Grace Ashcroft, a young FBI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yClDiMKcPl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yClDiMKcPl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yClDiMKcPl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T14:52:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vIwtceXY7V3o7B9pA7i6EpUKRYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0cAecLBsy-A"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T15:15:01Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "The Biggest 4K Blu-ray Releases in March 2026 Including Jurassic Park and Game of Thrones",
+        "description": "From Edgar Wright's fresh take on The Running Man to the high-fidelity arrival of Martin Scorsese's Killers of the Flower Moon in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0cAecLBsy-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0cAecLBsy-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0cAecLBsy-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T15:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vi1UhiJ3crftYNCP1C2tp26NaOM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q5zcQE54vzA"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T02:31:11Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Resident Evil Requiem - Don&#39;t Miss These Early Items!",
+        "description": "Resident Evil Requiem is a journey for both Grace and Leon, and if you want to get it started on the right foot, then you need to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5zcQE54vzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5zcQE54vzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5zcQE54vzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T02:31:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1wcsxGevtRywoA8L-1epufWwVLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RYw5zSLdYaA"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-27T01:10:54Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Project Hail Mary&#39;s surprising use of practical effects Presented by NTE and HyperX #ignfanfest",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RYw5zSLdYaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RYw5zSLdYaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RYw5zSLdYaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-27T01:10:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oRd-uYFNrUhRbD5bmlDQMCJETNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fvAKFdojkf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T02:22:49Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Which Pokemon starter are you going to pick?",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fvAKFdojkf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fvAKFdojkf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fvAKFdojkf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T02:22:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ESwe3VeGTFrTCgb8S63cDl7kctQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MTqTZVq6wB0"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-25T18:06:19Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Mortal Kombat 2 - Exclusive Trailer | IGN Fan Fest 2026",
+        "description": "From New Line Cinema comes the latest high-stakes installment in the blockbuster video game franchise in all its brutal glory, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MTqTZVq6wB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MTqTZVq6wB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MTqTZVq6wB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-25T18:06:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w-Q3l3iC_P0nOT71mUbTEnZ-zu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O-QZd_2n7U4"
+      },
+      "snippet": {
+        "publishedAt": "2026-02-28T02:27:07Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Leon is cool and brutal in Resident Evil Requiem. Presented by @xfinity  Imagine That.",
+        "description": "Subscribe to IGN for more! http://www.youtube.com/user/IGNentertainment?sub_confirmation=1 #IGN.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-QZd_2n7U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-QZd_2n7U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-QZd_2n7U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-02-28T02:27:07Z"
+      }
+    }
+  ]
+}
